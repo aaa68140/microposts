@@ -1,0 +1,24 @@
+/*
+
+h1, p {
+    color: red;
+}
+
+div li {
+    color: green;
+}
+
+div > p {
+    background-color: skyblue;
+}
+
+div + p {
+    color: violet;
+}*/
+
+p.abc {
+    color: red;
+}
+p {
+    color: green;
+}
